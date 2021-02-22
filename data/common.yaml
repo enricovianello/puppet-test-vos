@@ -1,1 +1,3 @@
 ---
+
+voms::params::clientpkgs: []
